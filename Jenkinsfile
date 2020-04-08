@@ -16,5 +16,5 @@ sh "cp /var/lib/jenkins/workspace/sarthak-tomcat-pipeline/target/*.jar /opt/tomc
 //sleep ('Start Tomcat Server')
   //sh "opt/tomcat/bin/startup.sh"
 //sleep(time:100,unit:"SECONDS")
-}
+//}
 }
